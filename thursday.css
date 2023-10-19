@@ -1,0 +1,27 @@
+header {
+    background-color: #134361;
+    width: 2000px;
+    height: 20vh;
+    padding-left: 180px;
+    
+}
+nav a{
+    color: white;
+    font-size: 28px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+nav :hover{
+    text-decoration: underline;
+}
+nav{
+   margin-left: 800px;
+   margin-right:  100px;
+   margin-top: -90px;
+}
+div{
+    margin-top: 20px;
+    margin-left: 44px;
+}
+
+

@@ -1,0 +1,27 @@
+.div{
+    background-color: aqua;
+    height: 90px;
+    width: 200px;
+    transform: rotateX(200deg);
+    transform: rotate(180deg);
+    border-radius: 30px;
+    transition:bacckground-color 2s ease-in;
+    animation-name: box;
+}
+.di{
+    background-color: aqua;
+    height: 90px;
+    width: 200px;
+    transform: rotateX(200deg);
+    transform: rotate(270deg);
+    border-radius: 30px;
+    animation: mine 2s ease-in 2s;
+}
+@keyframes mine{
+    from {background-color: red;}
+    to {background-color: yellow;}
+  
+}
+/* .div:hover{
+    background-color: brown;
+} */

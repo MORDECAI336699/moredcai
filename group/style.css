@@ -1,0 +1,110 @@
+body {
+  background-color: #29292c;
+  color: white;
+}
+
+header {
+  display: flex;
+  border-bottom: 1px solid black;
+  padding-bottom: 10px;
+}
+
+nav {
+  margin-left: 400px;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 18px;
+}
+
+nav a:hover {
+  color: red;
+}
+
+nav button {
+  background-color: #6931e0;
+  color: white;
+  padding: 15px;
+  border: none;
+  margin-left: 10px;
+}
+
+.header {
+  font-size: 50px;
+  color: white;
+  margin-top: 60px;
+}
+
+.wriiten {
+  color: white;
+  font-size: 25px;
+}
+
+.wriiten a {
+  color: #ffe790;
+}
+
+.wriiten a:hover {
+  color: white;
+}
+
+.Multi-thread {
+  margin-left: 300px;
+  margin-top: 60px;
+}
+
+.Multi-thread h2:hover {
+  color: #ffe790;
+}
+
+.profile-name a {
+  color: #ffe790;
+  text-decoration: none;
+}
+.profile-name a:hover {
+  color: white;
+}
+
+fieldset {
+  width: 50%;
+  padding: 10px;
+}
+
+input {
+  padding: 10px 40px;
+}
+button {
+  padding: 12px 40px;
+  background-color: #6931e0;
+  color: white;
+  border: none;
+}
+
+footer ul li {
+  list-style-type: none;
+}
+
+footer ul li a {
+  color: white;
+  font-size: 25px;
+}
+footer ul li a:hover {
+  color: red;
+}
+footer {
+  display: flex;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.company {
+  margin-left: 200px;
+}
+
+.social {
+  margin-left: 200px;
+}
+
+

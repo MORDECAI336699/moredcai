@@ -1,0 +1,60 @@
+.no1{
+ background-image: url(/img/background.png);
+ width: 100%;
+ height: 670px;
+ background-position: 40%;
+ background-repeat: no-repeat;
+ background-color: black;
+ margin-top: -170px ;
+
+}
+.keke{
+    padding-top: 390px;
+    /* animation-name: exam; */
+    /* transition: 2s; */
+    height: 70px;
+    position: relative;
+    width: 100%;
+    
+    animation: exam ;
+    animation-duration: 5s;
+    animation-delay: 0.2s;
+    animation-fill-mode: both;
+    animation-iteration-count: infinite ;
+    /* animation-timing-function: ease-in-out; */
+    animation-direction: reverse;
+}
+@keyframes exam{
+    from{
+        translate: translate(-1800px);  
+    }
+    to{
+        transform: translate(2000px);
+    }
+    
+}
+.kek{
+    padding-top: 0px;
+    animation-name: ex;
+    transition: 2s;
+    height: 90px;
+    position: static;
+    width: 100%;
+    
+    animation-name: ex ;
+    animation-duration: 7s;
+    animation-delay: 2s;
+    animation-fill-mode: ;
+    animation-iteration-count: infinite ;
+    /* animation-timing-function: ease-in-out; */
+    animation-direction: reverse;
+}
+@keyframes ex{
+    from{
+        translate: translate(-1800px);  
+    }
+    to{
+        transform: translate(2000px);
+    }
+    
+}

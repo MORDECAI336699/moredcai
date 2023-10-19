@@ -1,0 +1,292 @@
+main{
+    border-style:solid;
+   border-width: 3px;
+    background-color: #d5eaf3;
+    margin: 20px 600px 20px 100px;
+    border-radius: 25px;
+    border-color: #d5eaf3;
+    height: 90vh;
+    padding-bottom: 30px;
+}
+img{
+    margin-left: 100px;
+    margin-top: 70px;
+}
+nav{
+    margin-right: 20px;
+    margin-left: 80px;
+}
+.second{
+    background-color: #eeefbd;
+    height: 87vh;
+    padding-left: 60px;
+    padding-bottom: 100px;
+    padding-top: 10px;
+    border-width: 1700px;
+    margin-top: -70px;
+    margin-bottom: 600px;
+    margin-left: 70px;
+}
+.third{
+    margin-top: 20px;
+    padding: 20px;
+}
+h1{
+    margin-right: 20px;
+    margin-left: 80px;
+}
+.third2{
+  margin-right: 10px;
+    margin-left: 20px;
+}
+.first{
+    
+    border-width: 3px;
+    background: #d1e9d6;
+box-shadow:  16px 16px 56px #9fb1a3,
+             -20px -10x 20px #ffffff;
+}
+.software{
+    margin-right: 10px;
+    margin-left: 100px;
+    
+}
+.Engineering{
+    margin-right: 10px;
+    margin-left: 100px;
+
+}
+.are{
+    margin-right: 20px;
+    margin-left: 100px;
+}
+.neep{
+    padding-top: 20px;
+    padding-left: 200px;
+    padding-right: 200px;
+    background-color: #e0d4bf;
+    height: 95vh;
+    margin-right: 200px;
+    margin-left: 100px;
+}
+.neepi{
+    margin-right: 8px;
+    margin-left: 2px;  
+    font-size: 30px;
+}
+.bobo{
+    padding-left: 30px;
+    margin-right: 20px;
+    margin-left: 10px;
+    padding-right: 200px;
+    padding-bottom: 200px;
+    
+    
+}
+.style{
+    border-style:solid;
+    border-width: 3px;
+     background-color:#e0d5c0;
+     margin: 20px 600px 30px 100px;
+     border-radius: 25px;
+     border-color: #d5eaf3;
+
+}
+.Engineering{
+    font-size: 15px;
+}
+.here{
+    margin-right: 10px;
+    margin-left: 100px;
+
+}
+.digital{
+    font-size: 30px;
+    
+}
+.firsta{
+    margin-right: 120px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-width: 30px;
+    height: 30vh;
+    
+}
+.secondq{
+    background-color: #dfd5e8;
+    border-width: 500px;
+    height: 113vh;
+}
+.digit :hover{
+    text-decoration: underline;
+    color: orange;
+
+}
+.digit{
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 70px;
+    border-radius: 4px;
+}
+.ui{
+    margin-right: 20px;
+    margin-left: 100px;  
+}
+.ui :hover{
+    text-decoration: underline;
+    color: orange;
+}
+.data{
+    margin-left: 20px;
+}
+.data :hover{
+    text-decoration: underline;
+    color: orange;
+}
+.soft{
+    margin-left: 100px;
+}
+.soft :hover{
+    text-decoration: underline;
+    color: orange;
+}
+.image{
+    margin-top: 30px;
+}
+.logo{
+    opacity: 1;
+    padding-bottom: 200px;
+}
+.ps :hover{
+    color: orange;
+    text-decoration: underline;
+}
+#logo {
+    width: auto;
+    -webkit-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+    margin-bottom: 10px;
+    max-height: 54%;
+    display: inline-block;
+    float: none;
+    vertical-align: middle;
+    -webkit-transform: translate3d(0, 0, 0);
+}
+.dog{
+    height: 20vh;
+    margin-bottom: 200px;
+    padding-top: -10px;
+    margin-top: -50px;
+    border-bottom: 1px solid;
+    position: fixed;
+    top: 20px;
+    
+    
+
+}
+.ps{
+    margin-top: 80px;
+    margin-right: 40px;
+    margin-left: 410px;
+}
+nav{
+    padding-top: -30px;
+    margin-top: 30px;
+}
+.about{
+    margin-right: 20px;
+    text-decoration: none;
+}
+.prog{
+    margin-right: 20px; 
+    text-decoration: none;  
+}
+.admin{
+    margin-right: 20px; 
+    text-decoration: none;
+}
+.port{
+    margin-right: 20px;
+    text-decoration: none;
+}
+.sch{
+    margin-right: 20px;
+    text-decoration: none;
+}
+.new{
+    margin-right: 20px;
+    text-decoration: none;
+}
+.head{
+    margin-top: -50px;
+    margin-bottom: 200px;
+    font-size: 400%;
+    margin-left: 50px;
+   
+    font-weight: bolder;
+}
+.mode{
+    margin-left: 90px;
+}
+body{
+   
+}
+.ps{
+    font-size: 20px;
+}
+.div{
+    border-style:solid;
+    border-width: 2px;
+     background-color: white;
+     margin: 5px 0px 5px 20px;
+     border-radius: 20px;
+     border-color: white;
+     height: 90vh;
+     padding-bottom: 30px;  
+}
+.rug{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.gur{
+    color: #d64187;
+}
+.as{
+    font-size: 20px;
+}
+.comp{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.bub{
+    color: #d64187;
+}
+
+.how{
+    font-size: 20px;
+}
+.ict{
+    font-size: 20px;
+    font-weight: bolder;
+} 
+.ing{
+    color: #d64187;
+}
+.wow{
+    font-size: 20px;
+}
+.late{
+    font-size: 90px;
+    margin-top: 250px;
+}
+.room{
+    margin-top: -1px;
+}
+
+
+
+
+
+
+    
